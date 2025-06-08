@@ -7,7 +7,7 @@ import { Inter } from "next/font/google";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "NEURALUX | AI Technology Agency",
+  title: "NEU | AI Technology Agency",
   description:
     "Transforming business through artificial intelligence and machine learning solutions.",
   generator: "v0.dev",
